@@ -1,5 +1,5 @@
 # Lending Club
-Banks and Finance Companies are often keen to provide various loan schemes such as Housing Loans, Personal Loans, Credit Cards etc. as interest from the loan are one of their primary source of revenue. However, defaulting or non-payment of loans results into potential financial losses for these institutions. Therefore, it is very crucial to assess all risks before approving a loan to an applicant. The main purpose of this project is to identify the key factors behind loan defaults, thereby assisting the company in recognizing risky loan applications before better decision making.
+Banks and Finance Companies are often keen to provide various loan schemes such as Housing Loans, Personal Loans, Credit Cards etc. as interest from the loan are one of their primary source of revenue. However, defaulting or non-payment of loans results into potential financial losses for these institutions. Therefore, it is very crucial to assess all risks before approving a loan to an applicant. The main purpose of this project is to identify the key factors behind loan defaults, thereby assisting the company in recognizing risky loan applications for better decision making.
 
 ![README1](https://github.com/user-attachments/assets/d3dd8c88-1593-4b99-81ee-9a06c9d92e7a)
 
@@ -15,8 +15,8 @@ Banks and Finance Companies are often keen to provide various loan schemes such 
 - Provide general information about your project here.
 
 - What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- The study identifies how consumer attributes and loan attributes influences the tendency of default.
+- The dataset considered for this study can be found here - https://github.com/MallikaBera/LendingClubCaseStudy/blob/feb436f1e086c5362ff26a3953b0d8e63828805c/loan.zip
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
