@@ -15,7 +15,7 @@ Banks and Finance Companies are often keen to provide various loan schemes such 
 - Provide general information about your project here.
 
 - What is the background of your project?
-- The study will identify how consumer attributes and loan attributes influence the tendency of default.
+- The study identifies how consumer attributes and loan attributes influences the tendency of default.
 - The dataset considered for this study can be found here - https://github.com/MallikaBera/LendingClubCaseStudy/blob/feb436f1e086c5362ff26a3953b0d8e63828805c/loan.zip
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
