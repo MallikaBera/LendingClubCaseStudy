@@ -1,5 +1,5 @@
 # Lending Club
-Banks and Finance Companies are often keen to provide various loan schemes such as Housing Loans, Personal Loans, Credit Cards etc. as interest from the loan are one of their primary source of revenue. However, defaulting or non-payment of loans results into potential financial losses for these institutions. Therefore, it is very crucial to assess all risks before approving a loan to an applicant. The main purpose of this project is to identify the key factors behind loan defaults, thereby assisting the company in recognizing risky loan applications before better decision making.
+Banks and Finance Companies are often keen to provide various loan schemes such as Housing Loans, Personal Loans, Credit Cards etc. as interest from the loan are one of their primary source of revenue. However, defaulting or non-payment of loans results into potential financial losses for these institutions. Therefore, it is very crucial to assess all risks before approving a loan to an applicant. The main purpose of this project is to identify the key factors behind loan defaults, thereby assisting the company in recognizing risky loan applications for better decision making.
 
 ![README1](https://github.com/user-attachments/assets/d3dd8c88-1593-4b99-81ee-9a06c9d92e7a)
 
