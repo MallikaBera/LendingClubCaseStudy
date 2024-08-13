@@ -15,7 +15,7 @@ Banks and Finance Companies are often keen to provide various loan schemes such 
 - Provide general information about your project here.
 
 - What is the background of your project?
-- What is the business probem that your project is trying to solve?
+- The study will identify how consumer attributes and loan attributes influence the tendency of default.
 - What is the dataset that is being used?
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
