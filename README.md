@@ -39,6 +39,8 @@ The dataset considered for this study can be found here - https://github.com/Mal
 - Amounts for loan subgrades of A & B should be favored over the remaining to reduce charged-offs rates.
 
 - Number of loans defaulted is lesser in count for housing loan customers who owns the house while for the ones with rented or mortgaged properties.
+
+- Short term(36 months) loans are defaulted more often than long term loans(60 months).
     
 - Investments on Renewable Energy should be increased and Debt Consolidation should be reduced.
     
