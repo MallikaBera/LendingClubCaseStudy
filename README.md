@@ -37,6 +37,8 @@ The dataset considered for this study can be found here - https://github.com/Mal
 - For higher rate of interest, the annual income of the applicant should be high (approx. more than 83K) for a safer decision.
     
 - Amounts for loan subgrades of A & B should be favored over the remaining to reduce charged-offs rates.
+
+- Number of loans defaulted is lesser in count for housing loan customers who owns the house while for the ones with rented or mortgaged properties.
     
 - Investments on Renewable Energy should be increased and Debt Consolidation should be reduced.
     
