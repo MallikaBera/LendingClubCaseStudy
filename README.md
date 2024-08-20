@@ -7,48 +7,52 @@ Banks and Finance Companies are often keen to provide various loan schemes such 
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
 
-- What is the background of your project?
-- The study identifies how consumer attributes and loan attributes influences the tendency of default.
-- The dataset considered for this study can be found here - https://github.com/MallikaBera/LendingClubCaseStudy/blob/feb436f1e086c5362ff26a3953b0d8e63828805c/loan.zip
+When a person applies for a loan, there are two types of decisions that could be taken by the company:
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Loan accepted: If the company approves the loan, there are 3 possible scenarios described below:
+
+     **Fully paid**: Applicant has fully paid the loan (the principal and the interest rate)
+
+     **Current**: Applicant is in the process of paying the instalments, i.e. the tenure of the loan is not yet completed. These candidates are not labelled as 'defaulted'.
+
+    ** Charged-off**: Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has defaulted on the loan 
+
+- Loan rejected: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
+
+The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
+
+The study identifies how consumer attributes and loan attributes influences the tendency of default.
+
+The dataset considered for this study can be found here - https://github.com/MallikaBera/LendingClubCaseStudy/blob/feb436f1e086c5362ff26a3953b0d8e63828805c/loan.zip
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Loans approved should have lower interest Rate. Amounts loaned at higher interest rates(typically more than 13.5%) are mostly charged-off.
+    
+- For higher rate of interest, the annual income of the applicant should be high (approx. more than 83K) for a safer decision.
+    
+- Amounts for loan subgrades of A & B should be favored over the remaining to reduce charged-offs rates.
+    
+- Investments on Renewable Energy should be increased and Debt Consolidation should be reduced.
+    
+- Applicants from Canada and NY have more chances to be defaulters.
 
+- Credit pull for LCs should continue at the same rate.
+    
+- Applicants with Low/Moderate Annual Income and more than average to high Debt ratio should be validated carefully before approving the loan application.
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- Python - version 3.11.1
+- Python Numpy - version 1.26.4
+- Python Pandas - version 2.1.4
+- Python Matplotlib - version 3.7.3
+- Python Seaborn - version  0.12.2
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by @mallikabera and @MamathaNaveen - feel free to contact us!
